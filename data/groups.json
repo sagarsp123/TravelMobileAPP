@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "name": "Holiday Travel Agency",
+        "image": "https://images.unsplash.com/photo-1558979158-65a1eaa08691",
+        "rating": 4.7,
+        "reviews": 1450
+    },
+    {
+        "id": "2",
+        "name": "Tropical Getaways",
+        "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+        "rating": 4.9,
+        "reviews": 2300
+    },
+    {
+        "id": "3",
+        "name": "Mountain Adventure Tours",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "rating": 4.8,
+        "reviews": 1980
+    },
+    {
+        "id": "4",
+        "name": "City Breaks Worldwide",
+        "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e",
+        "rating": 4.6,
+        "reviews": 1250
+    },
+    {
+        "id": "5",
+        "name": "Coastal Escapes",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "rating": 4.5,
+        "reviews": 1100
+    }
+]

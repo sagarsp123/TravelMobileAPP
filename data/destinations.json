@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "description": "Escape to the ultimate tropical paradise with white sandy beaches and clear blue water.",
+        "rating": 4.8,
+        "price": "150",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+    },
+    {
+        "id": "2",
+        "name": "Mountain Serenity Lodge",
+        "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb",
+        "description": "Relax in a peaceful mountain lodge surrounded by nature.",
+        "rating": 4.7,
+        "price": "200",
+        "duration": "4",
+        "location": "Swiss Alps",
+        "category": "Mountains"
+    },
+    {
+        "id": "3",
+        "name": "Urban Explorer's Haven",
+        "image": "https://images.unsplash.com/photo-1597754092357-e56d27aa76a7",
+        "description": "Discover the vibrant life of a bustling city with endless attractions and nightlife.",
+        "rating": 4.5,
+        "price": "180",
+        "duration": "2",
+        "location": "New York City",
+        "category": "Cities"
+    },
+    {
+        "id": "4",
+        "name": "Forest Retreat Eco-Resort",
+        "image": "https://images.unsplash.com/photo-1498346509905-55ef8e11e5ca",
+        "description": "Rejuvenate your senses in a lush forest retreat with eco-friendly amenities.",
+        "rating": 4.9,
+        "price": "130",
+        "duration": "3",
+        "location": "Black Forest, Germany",
+        "category": "Forests"
+    },
+    {
+        "id": "5",
+        "name": "Golden Sands Beachfront",
+        "image": "https://images.unsplash.com/photo-1493558103817-58b2924bce98",
+        "description": "A scenic beachfront resort with golden sands and beautiful sunsets.",
+        "rating": 4.6,
+        "price": "170",
+        "duration": "5",
+        "location": "Maldives",
+        "category": "Beaches"
+    },
+    {
+        "id": "6",
+        "name": "Majestic Mountain Retreat",
+        "image": "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
+        "description": "Stay at a luxurious lodge with breathtaking mountain views and hiking trails.",
+        "rating": 4.8,
+        "price": "220",
+        "duration": "4",
+        "location": "Rocky Mountains, USA",
+        "category": "Mountains"
+    },
+    {
+        "id": "7",
+        "name": "City Lights Hotel",
+        "image": "https://images.unsplash.com/photo-1538439081501-8a86083f0e4c",
+        "description": "Experience the excitement of city life with modern amenities and skyline views.",
+        "rating": 4.4,
+        "price": "210",
+        "duration": "2",
+        "location": "Tokyo, Japan",
+        "category": "Cities"
+    },
+    {
+        "id": "8",
+        "name": "Enchanted Forest Hideaway",
+        "image": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
+        "description": "Get lost in the magic of the forest with unique treehouse accommodations.",
+        "rating": 4.9,
+        "price": "140",
+        "duration": "3",
+        "location": "Amazon Rainforest",
+        "category": "Forests"
+    }
+]
